@@ -12,7 +12,7 @@ I'm a recent university graduate with Computer Science (AI) major. I enjoy analy
 I'm a graduate student living in Sydney, Australia. Outside of work, I enjoy music, drawing and travelling with friends.
 
 📫 How to reach me:
-* [LinkedIn] (https://www.linkedin.com/in/xingyushen/)
+* [LinkedIn](https://www.linkedin.com/in/xingyushen/)
 
 <!--
 **ggracee17/ggracee17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
