@@ -3,15 +3,15 @@
 I'm a recent university graduate with Computer Science (AI) major. I enjoy analysing and solving problems, and have a keen interest in designing and building applications.
 
 
-🌱 I’m currently learning
+### 🌱 I’m currently learning
 * Front-end development
 * IOS Developing (Swift)
 
 
-⚡ About me:
+### ⚡ About me:
 I'm a graduate student living in Sydney, Australia. Outside of work, I enjoy music, drawing and travelling with friends.
 
-📫 How to reach me:
+### 📫 How to reach me:
 * [LinkedIn](https://www.linkedin.com/in/xingyushen/)
 
 <!--
