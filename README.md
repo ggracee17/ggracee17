@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Grace Shen
+### Hi there 👋 I'm Xingyu (Grace) Shen
 
 I'm a recent university graduate with Computer Science (AI) major. I enjoy analysing and solving problems, and have a keen interest in designing and building applications.
 
