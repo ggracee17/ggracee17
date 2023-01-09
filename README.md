@@ -5,7 +5,7 @@ I'm a recent university graduate with Computer Science (AI) major. I enjoy analy
 
 ### 🌱 I’m currently learning
 * Front-end development
-* IOS development (Swift)
+* SQL
 
 
 ### ⚡ About me:
