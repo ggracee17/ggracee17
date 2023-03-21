@@ -4,8 +4,8 @@ I'm a recent university graduate with Computer Science (AI) major. I enjoy analy
 
 
 ### 🌱 I’m currently learning
-* Front-end development
-* SQL
+* JavaScript
+* AWS
 
 
 ### ⚡ About me:
