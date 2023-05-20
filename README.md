@@ -1,18 +1,18 @@
-### Hi there 👋 I'm Xingyu (Grace) Shen
+### Hi there 👋 I am Grace
 
-I'm a recent university graduate a BSc degree in Computer Science, majoring in AI. I enjoy analysing and solving problems, and have a keen interest in designing and building innovative applications.
+I'm a recent university graduate with a BSc degree in Computer Science, majoring in AI. I enjoy analysing and solving problems, and have a keen interest in designing and building innovative applications.
 
 
-### 🌱 I’m currently learning
-* JavaScript, HTML, CSS
+### 🌱 I am currently learning
+* JavaScript
 * AWS
 
 
-### ⚡ About me:
-I'm a graduate student living in Sydney, Australia. Outside of work, I enjoy music, drawing and travelling with friends.
+### ⚡ Fun fact about me:
+I enjoy learning different countries' cultures and languages! I can speak English, Chinese, a little bit of Japanese, Kroean and French.
 
 ### 📫 How to reach me:
-* [LinkedIn](https://www.linkedin.com/in/xingyushen/)
+* [LinkedIn](https://www.linkedin.com/in/graceshen17/)
 
 <!--
 **ggracee17/ggracee17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
