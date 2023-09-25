@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Grace
 
-I'm a recent university graduate with a BSc degree in Computer Science, majoring in AI. I enjoy analysing and solving problems, and have a keen interest in designing and building innovative applications.
+I'm a recent university graduate with a BSc degree in Computer Science, majoring in AI. I enjoy analysing and solving problems, and have a keen interest in designing and building innovative websites and applications.
 
 
 ### 🌱 I am currently learning
